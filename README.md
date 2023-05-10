@@ -39,6 +39,8 @@ Sau cùng, khi đã chạy hết epoch, chương trình sẽ trả về 2 biều
 ![plot1](https://github.com/nmhieu02/Money_Classify/assets/133008099/7e16bd8c-a428-4d0e-8ab5-c470df2f4ebc)
 
 ### Kiểm tra kết quả
-Cuối cùng để kiểm thử model chúng ta chạy file test.py file này sẽ đọc ảnh từ camera sau đó thực hiện resize ảnh, normalize ảnh, chuyển thành tensor và đưa vào model để predict và cuối cùng là lấy kết quả đầu ra và hiển thị trên màn hình.
+Cuối cùng để kiểm thử model chúng ta chạy file _**test.py**_ file này sẽ đọc ảnh từ camera sau đó thực hiện resize ảnh, normalize ảnh, chuyển thành tensor và đưa vào model để predict và cuối cùng là lấy kết quả đầu ra và hiển thị trên màn hình.
+
 ![ketqua](https://github.com/nmhieu02/Money_Classify/assets/133008099/70f48d44-ec3d-4b99-97a3-c1b05ccbdc41)
+
 Chú ý: Ở đây chỉ xét các ảnh được nhận dạng có xác suất > 0.8 để nhận được kết quả tốt nhất.
