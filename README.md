@@ -3,3 +3,4 @@ Nghiên cứu việc xác định thông tin của sinh viên dựa trên ảnh 
 thư viện OpenCV, thư viện Dlib, thuật toán Face Recognition, Visual Studio Code,...
 ## Dataset
 ảnh
+![Uploading Exdata.png…]()
