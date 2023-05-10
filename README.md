@@ -1,11 +1,11 @@
-# Money_Classify
+# **Money_Classify**
 
 Thực hiện nghiên cứu việc xác định giá trị mặt tiền Việt Nam dựa trên ảnh chụp một cách tự động hóa bằng công nghệ phần mềm và khoa học máy tính. Sử dụng thư viện OpenCV, thư viện Sklearn, thư viện Keras, Visual Studio Code,...
-## Tổng quan
+## **Tổng quan**
 
 ![tongquan](https://github.com/nmhieu02/Money_Classify/assets/133008099/b297ce55-f0c0-47fb-a392-63a8fb4fe439)
 
-## Bố cục chung
+## **Bố cục chung**
 
 **• setup.txt**: chứa các thư viện cần phải cài đặt.
 
@@ -15,7 +15,7 @@ Thực hiện nghiên cứu việc xác định giá trị mặt tiền Việt N
 
 **• test.py**: để kiểm thử model.
 
-## Các bước thực nghiệm
+## **Các bước thực nghiệm**
 ### Tạo data
 Sử dụng _**make_data.py**_ để xây dựng bộ data. Trong thư mục data có chứa các thư mục con với tên là nhãn tờ tiền cho từng mệnh giá tiền tương ứng.
 
