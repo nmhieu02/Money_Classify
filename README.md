@@ -8,8 +8,11 @@ Thực hiện nghiên cứu việc xác định giá trị mặt tiền Việt N
 ## Bố cục chung
 
 **• setup.txt**: chứa các thư viện cần phải cài đặt.
+
 **• make_data.py**: dùng để đọc liên tục từ camera và save lại vào các thư mục tương ứng ảnh các tờ tiền. Sau khi chạy thành công các class, chúng em sẽ có thư mục data với các thư mục con
+
 **• train.py**: Xử lý dữ liệu ảnh, thiết kế mạng CNN Classify dùng để train, sử dụng augmentation cho dữ liệu và train model CNN Classify
+
 **• test.py**: để kiểm thử model.
 
 ## Các bước thực nghiệm
